@@ -1,1 +1,3 @@
 local3 duzeldildi
+
+deyisildi
